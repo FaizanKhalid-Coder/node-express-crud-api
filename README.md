@@ -118,7 +118,6 @@ Open `http://localhost:3000` in your browser.
 
 ## 📸 Screenshots
 
-> Add screenshots of your frontend here after uploading to GitHub.
 <img width="934" height="404" alt="image" src="https://github.com/user-attachments/assets/37c3de17-c331-46c2-baf2-4103f64ee9d9" />
 
 ---
